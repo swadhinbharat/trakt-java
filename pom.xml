@@ -87,8 +87,8 @@
 			<version>${apibuilder.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.google.code.gson</groupId>
-			<artifactId>gson</artifactId>
+			<groupId>com.google.code.myjson</groupId>
+			<artifactId>myjson</artifactId>
 			<version>${gson.version}</version>
 		</dependency>
 
